@@ -7,6 +7,9 @@ body {
     background:#F4F4F4;
 }
 
+#title{
+    padding:0px 10px;
+}
 h1{
     color:white;
 }
